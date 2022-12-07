@@ -6,7 +6,6 @@ lines = file.split("\n")
 
 sizes = {}
 current = []
-redundancy = ""
 
 for command in lines:
     if command.startswith("$"):
