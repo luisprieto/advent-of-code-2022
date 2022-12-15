@@ -1,5 +1,5 @@
 from collections import deque
-print("Advent of code - Day 11")
+print("Advent of code - Day 12")
 
 
 def get_neighbors(matrix, pos):

@@ -22,7 +22,7 @@ def compare(a, b):
     return len(a) - len(b)
 
 
-print("Advent of code - Day 11")
+print("Advent of code - Day 13")
 
 f = open("input.txt", "r")
 file = f.read().replace('\n\n', '\n')
